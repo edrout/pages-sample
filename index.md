@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
@@ -12,4 +12,4 @@ title: Home
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
 
-##Emily's demo site
+## Emily's demo site
